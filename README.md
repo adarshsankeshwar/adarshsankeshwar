@@ -64,7 +64,7 @@ I am a passionate **Web Developer / Software Developer** who enjoys building mod
 ## 📫 Connect With Me
 
 - 🐙 GitHub: https://github.com/adarshsankeshwar  
-- 💼 LinkedIn: ()  
+- 💼 LinkedIn: (https://www.linkedin.com/in/adarsh-sankeshwar-766a79335?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 - 📧 Email: (adarshsankeshwar@gmail.com)  
 
 ---
